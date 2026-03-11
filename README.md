@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a passionate Computer Science student at Hannibal La-Grange University with a strong interest in:
-3D modeling, 
-cybersecurity, 
-web development, 
-and network architecture. 
+👨🏻‍🎓Computer Science student at Hannibal La-Grange University.
+🔬Working in 3D modeling.
+🔒Cybersecurity passionate.
+🖥️Web development.
+🛜Network architecture. 
 
 My academic projects include configuring hardened Ubuntu servers, 
 creating 3D animations in Unreal Engine, 
