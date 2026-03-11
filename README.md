@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👨🏻‍🎓Computer Science student at Hannibal La-Grange University.
-🔬Working in 3D modeling.
-🔒Cybersecurity passionate.
-🖥️Web development.
-🛜Network architecture. 
 
-My academic projects include configuring hardened Ubuntu servers, 
-creating 3D animations in Unreal Engine, 
-and building secure networking topologies.
+# Hi👋, I'm Ignacio Diaz
+
+<h3>A Tech Enthusiast from Spain</h3>
+
+- 👨🏻‍🎓 Computer Science student at Hannibal La-Grange University.
+- 🔬 Working in 3D modeling. 
+- 🔒 Cybersecurity passionate.
+- 🌐 Web development.
+- 🛜 Network architecture.
+- 📧 Reach me via [**Email**](ignacio.diaz.11"student.hlg.edu) 
+- 📍 Based in **Hannibal la-Grange, MO, United States**.
