@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 - 🛜 Network architecture.
 - 📧 Reach me via [**Email**](ignacio.diaz.11"student.hlg.edu) 
 - 📍 Based in **Hannibal La-Grange, MO, United States**.
+-  **Portfolio**(https://www.notion.so/Ignacio-Diaz-Digital-Portfolio-1ddcccc7b58380be8b05f62826c07645)**
