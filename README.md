@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - 🌐 Web development.
 - 🛜 Network architecture.
 - 📧 Reach me via [**Email**](ignacio.diaz.11"student.hlg.edu) 
-- 📍 Based in **Hannibal la-Grange, MO, United States**.
+- 📍 Based in **Hannibal La-Grange, MO, United States**.
